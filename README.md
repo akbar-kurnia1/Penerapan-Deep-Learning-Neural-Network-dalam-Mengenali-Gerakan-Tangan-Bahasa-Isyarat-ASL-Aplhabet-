@@ -108,7 +108,7 @@ Agar deteksi berjalan optimal, perhatikan hal berikut:
 ## 👨‍💻 Author
 
 * **Akbar Kurniawan** — *Model Training & Implementation*
-* **Yudi Octavianus Siregar** — *Project Outline & Research*
+* **Yudi Octavianus Siregar & Adhenn** — *Project Outline & Research*
 
 ---
 
